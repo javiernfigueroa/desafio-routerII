@@ -90,7 +90,7 @@ function Detalle() {
           </Col>
         </Row>
       )}
-      <Button className="mt-2" variant="primary" onClick={handleVolver}>
+      <Button className="mt-2 mb-5" variant="primary" onClick={handleVolver}>
         Volver a la selección de personajes
       </Button>
     </Container>
